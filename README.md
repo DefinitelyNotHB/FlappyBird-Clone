@@ -1,2 +1,2 @@
 # FlappyBird-Clone
-A FlappyBird clone I made using vanilla Java  
+Simple FlappyBird game built in Java using Swing.
